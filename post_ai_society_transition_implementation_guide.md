@@ -1,8 +1,8 @@
 # Post-AI Society Transition: Comprehensive Implementation Guide
 
-> **Related Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[governance_ai_society_analysis]] | [[post_work_society_human_purpose_comprehensive_analysis]]
+> **Related Reports**: [Index](./00_AI_Research_Reports_Index.md) | [Economic Models](./Post-AI_Economic_Models_Research_Report.md) | [Governance Analysis](./governance_ai_society_analysis.md) | [Human Purpose Analysis](./post_work_society_human_purpose_comprehensive_analysis.md)
 > 
-> **Risk Analysis**: Contains mitigation strategies for all rogue scenarios in [[societal_fragmentation_ai_transition_comprehensive_analysis]], [[ai_authoritarianism_techno_feudalism_analysis]], [[AI_Transition_Collapse_Scenarios_Analysis]], [[uncontrolled_ai_development_scenarios_2025]]
+> **Risk Analysis**: Contains mitigation strategies for all rogue scenarios: [Fragmentation](./societal_fragmentation_ai_transition_comprehensive_analysis.md), [Authoritarianism](./ai_authoritarianism_techno_feudalism_analysis.md), [Collapse](./AI_Transition_Collapse_Scenarios_Analysis.md), [Uncontrolled AI](./uncontrolled_ai_development_scenarios_2025.md)
 
 ## Executive Summary
 

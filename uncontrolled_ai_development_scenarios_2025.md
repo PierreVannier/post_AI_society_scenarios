@@ -1,8 +1,8 @@
 # Uncontrolled AI Development and Deployment: Technological Control Failure Scenarios (2025)
 
-> **Framework Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[governance_ai_society_analysis]] | [[post_work_society_human_purpose_comprehensive_analysis]] | [[post_ai_society_transition_implementation_guide]]
+> **Framework Reports**: [Index](./00_AI_Research_Reports_Index.md) | [Economic Models](./Post-AI_Economic_Models_Research_Report.md) | [Governance Analysis](./governance_ai_society_analysis.md) | [Human Purpose](./post_work_society_human_purpose_comprehensive_analysis.md) | [Implementation](./post_ai_society_transition_implementation_guide.md)
 > 
-> **Related Risk Scenarios**: [[societal_fragmentation_ai_transition_comprehensive_analysis]] | [[ai_authoritarianism_techno_feudalism_analysis]] | [[AI_Transition_Collapse_Scenarios_Analysis]]
+> **Related Risk Scenarios**: [Fragmentation](./societal_fragmentation_ai_transition_comprehensive_analysis.md) | [Authoritarianism](./ai_authoritarianism_techno_feudalism_analysis.md) | [Collapse](./AI_Transition_Collapse_Scenarios_Analysis.md)
 
 ## Executive Summary
 

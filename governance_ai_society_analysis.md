@@ -1,8 +1,8 @@
 # Governance and Social Structures for an AI-Transformed Society: A Comprehensive Analysis
 
-> **Related Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[post_work_society_human_purpose_comprehensive_analysis]] | [[post_ai_society_transition_implementation_guide]]
+> **Related Reports**: [Index](./00_AI_Research_Reports_Index.md) | [Economic Models](./Post-AI_Economic_Models_Research_Report.md) | [Human Purpose Analysis](./post_work_society_human_purpose_comprehensive_analysis.md) | [Implementation Guide](./post_ai_society_transition_implementation_guide.md)
 > 
-> **Risk Analysis**: See [[ai_authoritarianism_techno_feudalism_analysis]] for governance failure scenarios this framework addresses
+> **Risk Analysis**: See [AI Authoritarianism Analysis](./ai_authoritarianism_techno_feudalism_analysis.md) for governance failure scenarios this framework addresses
 
 ## Executive Summary
 

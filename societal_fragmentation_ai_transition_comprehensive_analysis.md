@@ -1,8 +1,8 @@
 # Societal Fragmentation and Polarization in AI Transition: Comprehensive Analysis
 
-> **Framework Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[governance_ai_society_analysis]] | [[post_work_society_human_purpose_comprehensive_analysis]] | [[post_ai_society_transition_implementation_guide]]
+> **Framework Reports**: [Index](./00_AI_Research_Reports_Index.md) | [Economic Models](./Post-AI_Economic_Models_Research_Report.md) | [Governance Analysis](./governance_ai_society_analysis.md) | [Human Purpose](./post_work_society_human_purpose_comprehensive_analysis.md) | [Implementation](./post_ai_society_transition_implementation_guide.md)
 > 
-> **Related Risk Scenarios**: [[ai_authoritarianism_techno_feudalism_analysis]] | [[AI_Transition_Collapse_Scenarios_Analysis]] | [[uncontrolled_ai_development_scenarios_2025]]
+> **Related Risk Scenarios**: [Authoritarianism](./ai_authoritarianism_techno_feudalism_analysis.md) | [Collapse](./AI_Transition_Collapse_Scenarios_Analysis.md) | [Uncontrolled AI](./uncontrolled_ai_development_scenarios_2025.md)
 
 ## Executive Summary
 

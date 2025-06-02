@@ -1,8 +1,8 @@
 # Maintaining Human Purpose and Meaning in a Post-Work, AI-Dominated Era: A Comprehensive Analysis
 
-> **Related Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[governance_ai_society_analysis]] | [[post_ai_society_transition_implementation_guide]]
+> **Related Reports**: [Index](./00_AI_Research_Reports_Index.md) | [Economic Models](./Post-AI_Economic_Models_Research_Report.md) | [Governance Analysis](./governance_ai_society_analysis.md) | [Implementation Guide](./post_ai_society_transition_implementation_guide.md)
 > 
-> **Risk Analysis**: See [[societal_fragmentation_ai_transition_comprehensive_analysis]] for identity crisis scenarios this framework addresses
+> **Risk Analysis**: See [Societal Fragmentation Analysis](./societal_fragmentation_ai_transition_comprehensive_analysis.md) for identity crisis scenarios this framework addresses
 
 ## Executive Summary
 

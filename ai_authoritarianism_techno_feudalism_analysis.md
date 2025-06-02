@@ -1,5 +1,9 @@
 # AI Authoritarianism and Techno-Feudalism: Scenarios Analysis
 
+> **Framework Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[governance_ai_society_analysis]] | [[post_work_society_human_purpose_comprehensive_analysis]] | [[post_ai_society_transition_implementation_guide]]
+> 
+> **Related Risk Scenarios**: [[societal_fragmentation_ai_transition_comprehensive_analysis]] | [[AI_Transition_Collapse_Scenarios_Analysis]] | [[uncontrolled_ai_development_scenarios_2025]]
+
 ## Executive Summary
 
 This analysis examines four critical scenarios where AI development leads to concentrated power and authoritarian control. Based on current trends and historical precedents, these scenarios present varying but significant probabilities of realization over the next 5-15 years.

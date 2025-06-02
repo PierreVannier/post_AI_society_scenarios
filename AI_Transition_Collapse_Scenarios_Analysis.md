@@ -1,6 +1,10 @@
 # Economic and Social Collapse Scenarios from Failed AI Transition
 ## Comprehensive Risk Assessment and Systemic Breakdown Analysis
 
+> **Framework Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[governance_ai_society_analysis]] | [[post_work_society_human_purpose_comprehensive_analysis]] | [[post_ai_society_transition_implementation_guide]]
+> 
+> **Related Risk Scenarios**: [[societal_fragmentation_ai_transition_comprehensive_analysis]] | [[ai_authoritarianism_techno_feudalism_analysis]] | [[uncontrolled_ai_development_scenarios_2025]]
+
 **Executive Summary**
 
 This analysis examines catastrophic scenarios resulting from failed AI transition, incorporating historical collapse patterns, systemic risk theory, and current vulnerability indicators. The research reveals converging threats that could trigger civilizational breakdown within the next decade, with probability estimates ranging from 15-40% based on historical precedents and current trajectory indicators.

@@ -1,5 +1,9 @@
 # Governance and Social Structures for an AI-Transformed Society: A Comprehensive Analysis
 
+> **Related Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[post_work_society_human_purpose_comprehensive_analysis]] | [[post_ai_society_transition_implementation_guide]]
+> 
+> **Risk Analysis**: See [[ai_authoritarianism_techno_feudalism_analysis]] for governance failure scenarios this framework addresses
+
 ## Executive Summary
 
 As artificial intelligence fundamentally transforms economic and social structures, new governance models are emerging that could maintain democratic participation and social cohesion. This analysis examines eight key governance innovations, their implementation challenges, and frameworks for preventing elite capture while managing AI's societal impact.

@@ -6,44 +6,44 @@ This collection contains comprehensive research on creating livable post-AI soci
 
 ### 🏗️ **Post-AI Society Framework (Positive Scenarios)**
 
-1. **[[Post-AI_Economic_Models_Research_Report]]**
+1. **[Post-AI Economic Models Research Report](./Post-AI_Economic_Models_Research_Report.md)**
    - Alternative economic models for post-AI society
    - UBI variants, cooperatives, commons-based production
    - Platform cooperatives and resource sharing economies
 
-2. **[[governance_ai_society_analysis]]**
+2. **[Governance AI Society Analysis](./governance_ai_society_analysis.md)**
    - New governance and social structures for AI-transformed societies
    - Digital democracy, citizen assemblies, decentralized coordination
    - Democratic innovation and AI oversight mechanisms
 
-3. **[[post_work_society_human_purpose_comprehensive_analysis]]**
+3. **[Post-Work Society Human Purpose Analysis](./post_work_society_human_purpose_comprehensive_analysis.md)**
    - Solutions for human purpose, meaning and identity in post-work era
    - Creative fulfillment, care work, lifelong learning frameworks
    - Psychological research on human fulfillment beyond employment
 
-4. **[[post_ai_society_transition_implementation_guide]]**
+4. **[Post-AI Society Transition Implementation Guide](./post_ai_society_transition_implementation_guide.md)**
    - Practical 12-year transition strategies and implementation frameworks
    - Gradual transformation pathways with budgets and timelines
    - Crisis management and international coordination mechanisms
 
 ### ⚠️ **Rogue Scenarios Analysis (Breakdown Pathways)**
 
-5. **[[societal_fragmentation_ai_transition_comprehensive_analysis]]**
+5. **[Societal Fragmentation AI Transition Analysis](./societal_fragmentation_ai_transition_comprehensive_analysis.md)**
    - Societal fragmentation and polarization scenarios (70-90% probability)
    - Information warfare, social polarization, democratic backsliding
    - Regional variations and early warning indicators
 
-6. **[[ai_authoritarianism_techno_feudalism_analysis]]**
+6. **[AI Authoritarianism Techno-Feudalism Analysis](./ai_authoritarianism_techno_feudalism_analysis.md)**
    - Authoritarian capture and techno-feudalism scenarios (65-85% probability)
    - Techno-authoritarian states, corporate feudalism, elite capture
    - Geographic analysis and resistance capabilities
 
-7. **[[AI_Transition_Collapse_Scenarios_Analysis]]**
+7. **[AI Transition Collapse Scenarios Analysis](./AI_Transition_Collapse_Scenarios_Analysis.md)**
    - Economic and social collapse scenarios (35-60% probability)
    - Rapid unemployment, violent conflict, systemic breakdown
    - Recovery timeframes and mitigation strategies
 
-8. **[[uncontrolled_ai_development_scenarios_2025]]**
+8. **[Uncontrolled AI Development Scenarios 2025](./uncontrolled_ai_development_scenarios_2025.md)**
    - Uncontrolled AI development and deployment scenarios
    - AI racing, alignment failures, dual-use technology risks
    - Technical feasibility and expert consensus analysis

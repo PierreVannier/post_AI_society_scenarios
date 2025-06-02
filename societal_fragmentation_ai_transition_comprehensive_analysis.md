@@ -1,5 +1,9 @@
 # Societal Fragmentation and Polarization in AI Transition: Comprehensive Analysis
 
+> **Framework Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[governance_ai_society_analysis]] | [[post_work_society_human_purpose_comprehensive_analysis]] | [[post_ai_society_transition_implementation_guide]]
+> 
+> **Related Risk Scenarios**: [[ai_authoritarianism_techno_feudalism_analysis]] | [[AI_Transition_Collapse_Scenarios_Analysis]] | [[uncontrolled_ai_development_scenarios_2025]]
+
 ## Executive Summary
 
 As artificial intelligence fundamentally transforms the global economy and social structures, societies face unprecedented risks of fragmentation and polarization that could lead to civilizational breakdown. This analysis examines four critical failure scenarios where consensus on AI transition collapses, creating cascading effects that threaten democratic institutions and social cohesion. Based on current trends, historical precedents, and emerging research, we assess probability ranges, timelines, and early warning indicators for each scenario.

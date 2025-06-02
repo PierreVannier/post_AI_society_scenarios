@@ -1,5 +1,9 @@
 # Post-AI Society Transition: Comprehensive Implementation Guide
 
+> **Related Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[governance_ai_society_analysis]] | [[post_work_society_human_purpose_comprehensive_analysis]]
+> 
+> **Risk Analysis**: Contains mitigation strategies for all rogue scenarios in [[societal_fragmentation_ai_transition_comprehensive_analysis]], [[ai_authoritarianism_techno_feudalism_analysis]], [[AI_Transition_Collapse_Scenarios_Analysis]], [[uncontrolled_ai_development_scenarios_2025]]
+
 ## Executive Summary
 
 This implementation guide provides a detailed roadmap for transitioning from current economic systems to post-AI livable societies. Based on extensive research of historical transitions, current pilot programs, and emerging governance frameworks, this guide offers actionable strategies with specific timelines, success metrics, and risk mitigation approaches.

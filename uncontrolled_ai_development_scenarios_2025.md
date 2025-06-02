@@ -1,5 +1,9 @@
 # Uncontrolled AI Development and Deployment: Technological Control Failure Scenarios (2025)
 
+> **Framework Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[governance_ai_society_analysis]] | [[post_work_society_human_purpose_comprehensive_analysis]] | [[post_ai_society_transition_implementation_guide]]
+> 
+> **Related Risk Scenarios**: [[societal_fragmentation_ai_transition_comprehensive_analysis]] | [[ai_authoritarianism_techno_feudalism_analysis]] | [[AI_Transition_Collapse_Scenarios_Analysis]]
+
 ## Executive Summary
 
 This analysis examines scenarios involving uncontrolled AI development and deployment, focusing on technological rather than social control failures. Based on current research, expert surveys, and technological trends, the evidence suggests a rapidly accelerating timeline for advanced AI capabilities with inadequate safety measures keeping pace. Expert forecasts have compressed dramatically, with median AGI estimates dropping from 50 years in 2020 to a 25% probability by 2027 and 50% by 2031 as of December 2024.

@@ -1,8 +1,8 @@
 # Alternative Economic Models for the Post-AI Era: A Comprehensive Research Report
 
-> **Related Reports**: [[00_AI_Research_Reports_Index]] | [[governance_ai_society_analysis]] | [[post_work_society_human_purpose_comprehensive_analysis]] | [[post_ai_society_transition_implementation_guide]]
+> **Related Reports**: [Index](./00_AI_Research_Reports_Index.md) | [Governance Analysis](./governance_ai_society_analysis.md) | [Human Purpose Analysis](./post_work_society_human_purpose_comprehensive_analysis.md) | [Implementation Guide](./post_ai_society_transition_implementation_guide.md)
 > 
-> **Risk Analysis**: See [[AI_Transition_Collapse_Scenarios_Analysis]] for economic collapse scenarios that these models could prevent
+> **Risk Analysis**: See [Economic Collapse Scenarios](./AI_Transition_Collapse_Scenarios_Analysis.md) for scenarios these models could prevent
 
 ## Executive Summary
 

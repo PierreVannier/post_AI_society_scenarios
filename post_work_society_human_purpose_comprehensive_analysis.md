@@ -1,5 +1,9 @@
 # Maintaining Human Purpose and Meaning in a Post-Work, AI-Dominated Era: A Comprehensive Analysis
 
+> **Related Reports**: [[00_AI_Research_Reports_Index]] | [[Post-AI_Economic_Models_Research_Report]] | [[governance_ai_society_analysis]] | [[post_ai_society_transition_implementation_guide]]
+> 
+> **Risk Analysis**: See [[societal_fragmentation_ai_transition_comprehensive_analysis]] for identity crisis scenarios this framework addresses
+
 ## Executive Summary
 
 As artificial intelligence advances toward potentially automating 40-50% of human work, societies face an unprecedented challenge: preserving human dignity, purpose, and social cohesion in an era where traditional employment may no longer provide the foundation for identity and meaning. This analysis examines nine key approaches to maintaining human fulfillment beyond paid employment, drawing from psychological research, anthropological studies, and contemporary experiments.
